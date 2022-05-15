@@ -1,3 +1,6 @@
+This is an educational project I made to practice the machine learning project steps, this project is inspired by this Youtube playlist:https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+
+
 # Project Overview
 - Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 - Scraped over 1000 job descriptions from glassdoor using python and selenium
