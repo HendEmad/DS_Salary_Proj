@@ -8,10 +8,14 @@ This is an educational project I made to practice the machine learning project s
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 
 # Code and Resources Used:
+
 **Python Version:** 3.8
+
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium
+
 **Scraper Github:**
 https://github.com/arapfaik/scraping-glassdoor-selenium
+
 **Scraper Article:**
 https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 
