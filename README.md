@@ -1,4 +1,4 @@
-This is an educational project I made to practice the machine learning project steps, this project is inspired by this Youtube playlist:https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+This is an educational project I made to practice the machine learning project steps.
 
 
 # Project Overview
